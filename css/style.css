@@ -1,0 +1,44 @@
+.rojo {
+	background-color: red;
+	height: 350px;
+	width: 350px;
+	position: relative;
+}
+
+.lila {
+	background-color: purple;
+	height: 170px;
+	width: 170px;
+	margin: 85px;
+	position: absolute;
+}
+
+.amarillo {
+	background-color: yellow;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+}
+
+.azul {
+	background-color: blue;
+	height: 350px;
+	width: 350px;
+	position: relative;
+	margin-top: 20px;
+}
+
+.verde {
+	background-color: green;
+	height: 170px;
+	width: 170px;
+	margin: 85px;
+	position: absolute;
+}
+
+.negro {
+	background-color: black;
+	height: 85px;
+	width: 85px;
+	position: absolute;
+}
